@@ -1,1 +1,2 @@
 When you initialices a repository it creates a .git folder to take control of the changes.
+The staging area is an intermediate between working directory and the commit.
