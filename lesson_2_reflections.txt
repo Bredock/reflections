@@ -1,0 +1,1 @@
+When you initialices a repository it creates a .git folder to take control of the changes.
