@@ -32,4 +32,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want your collaborators to pull the changes.
+    In this way you can assure there would be no problem and you collaborators are ok.
